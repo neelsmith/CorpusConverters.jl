@@ -8,10 +8,12 @@ CitableCorpus = "cf5ac11a-93ef-4a1a-97a3-f6af101603b5"
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TextAnalysis = "a2db99b7-8b79-58f8-94bf-bbc811eef33d"
 TopicModelsVB = "dad468f8-6d63-5d40-b2c4-48631a3ed0cf"
 
 [compat]
 CitableCorpus = "0.3"
 DocStringExtensions = "0.8"
 Documenter = "0.26"
+TextAnalysis = "0.7"
 TopicModelsVB = "1"
