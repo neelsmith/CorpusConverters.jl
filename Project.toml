@@ -1,0 +1,17 @@
+name = "CorpusConverters"
+uuid = "ec532a33-f69a-4d31-bb95-cbe7e9a245b0"
+authors = ["Neel Smith <dnsmith.neel@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CitableCorpus = "cf5ac11a-93ef-4a1a-97a3-f6af101603b5"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TopicModelsVB = "dad468f8-6d63-5d40-b2c4-48631a3ed0cf"
+
+[compat]
+CitableCorpus = "0.3"
+DocStringExtensions = "0.8"
+Documenter = "0.26"
+TopicModelsVB = "1"
