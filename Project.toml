@@ -1,7 +1,7 @@
 name = "CorpusConverters"
 uuid = "ec532a33-f69a-4d31-bb95-cbe7e9a245b0"
 authors = ["Neel Smith <dnsmith.neel@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 CitableCorpus = "cf5ac11a-93ef-4a1a-97a3-f6af101603b5"
